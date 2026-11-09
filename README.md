@@ -48,6 +48,12 @@ Month_3_Movie_Recommendation_System/
 
 4. Select a movie and click Recommend Movies.
 
+## 🚀 Live Demo
+
+Try the Movie Recommendation System here:
+
+[Launch Movie Recommendation App](https://movie-recommendation-systemgit-mqftzsxymdbtwembgcgzss.streamlit.app/)   
+
 ## Author
 Ranjita Dandgulkar
 =======
