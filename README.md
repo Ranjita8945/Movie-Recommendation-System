@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation system that suggests movies based on their genres, keywords, plot descriptions, cast, and directors.
@@ -49,3 +50,7 @@ Month_3_Movie_Recommendation_System/
 
 ## Author
 Ranjita Dandgulkar
+=======
+# Movie-Recommendation-System
+Content-Based Movie Recommendation System using Machine Learning
+>>>>>>> 821aea5b36dee7109db5e5c1882c4ce49b38a43e
