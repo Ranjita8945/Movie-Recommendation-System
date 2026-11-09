@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation system that suggests movies based on their genres, keywords, plot descriptions, cast, and directors.
